@@ -1,0 +1,16 @@
+{
+    "name": "percentage-calc"
+  , "repo": "abpetkov/percentage-calc"
+  , "description": "Make percentage calculations with ease"
+  , "version": "0.0.1"
+  , "keywords": [
+        "calculate"
+      , "percentage"]
+  , "license": "MIT"
+  , "main": "percentage-calc.js"
+  , "scripts": [
+      "percentage-calc.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}

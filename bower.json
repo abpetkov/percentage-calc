@@ -1,0 +1,23 @@
+{
+    "name": "percentage-calc"
+  , "main": "dist/percentage-calc.js"
+  , "version": "0.0.1"
+  , "description": "Make percentage calculations with ease"
+  , "keywords": [
+        "calculate"
+      , "percentage"
+    ]
+  , "authors": [
+      "Alexander Petkov (https://github.com/abpetkov)"
+    ]
+  , "license": "MIT"
+  , "ignore": [
+       "**/.*"
+      , "node_modules"
+      , "bower_components"
+      , "test"
+      , "tests"
+      , "component.json"
+      , "Makefile"
+    ]
+}
